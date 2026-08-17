@@ -1,2 +1,0 @@
-# Einkaufsliste
-Hilfe zum einkaufen
